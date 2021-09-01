@@ -49,4 +49,5 @@
 - `git rebase main`: rebases current branch against main
 
 - use branch protection rules to force PRs and code reviews
+    - include admins if you want it to apply to yourself
 
