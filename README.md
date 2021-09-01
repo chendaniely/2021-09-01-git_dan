@@ -16,7 +16,7 @@
 - `git checkout <HASH>`: revert everything to <HASH> in a detached HEAD state
     - `git checkout main` / `git switch main`: to go back
 
-## Remotes
+## ReMoTeS
 
 - `git remote add <NAME> <URL>`: add a remote <NAME> using the <URL>
     - `git remote add origin XXXXX`
@@ -26,7 +26,7 @@
 - `git pull <REMOTE> <BRANCH>`: pull changes from <REMOTE> down to local computer <BRANCH>
 - Conflicts may happen during push/pull sync
 
-## Branches
+## BranCHEs
 
 - `git branch <NAME>`: create a branch where you are (i.e., HEAD)
 - `git branch -a`: list all your branches
