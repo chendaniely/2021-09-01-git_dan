@@ -5,4 +5,5 @@
 - `git status`: tells you the git status
 - `git add <FILE>`: addes <FILE> to the staging area
 - `git commit`: opens text editor to commit things in staging
+    - `git commit -m "TEXT"`: writes "TEXT" for the commit message
 
