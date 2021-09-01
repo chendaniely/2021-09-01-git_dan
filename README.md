@@ -32,3 +32,17 @@
 - `git branch -a`: list all your branches
 - `git switch <BRANCH>`: move HEAD to <BRANCH>
     - `git checkout <BRANCH>`: the "older" way to move to another branch
+
+- `git switch -c <BRANCH>`: create and move to <branch> in 1 step
+    - `git checkout -b <BRANCH>`: the "older" way to create and move to branch
+
+- pull request: merging a branch on the remote (i.g., GitHub)
+    - update PR by pushing to the branch
+    - merge the PR in the remote
+    - delete branch on remote
+- `git fetch --prune`: delete any local references where the remote branch was deleted
+- `git branch -d <BRANCH>`: delete <branch>
+    - `git branch -D <BRANCH>`: force delte branch without merging
+
+- quick link for example workflow: https://bi-sdal.github.io/training/help-faq.html
+
