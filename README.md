@@ -25,3 +25,10 @@
 - `git push <REMOTE> <BRANCH>`: push our local changes in <BRANCH> to <REMOTE>
 - `git pull <REMOTE> <BRANCH>`: pull changes from <REMOTE> down to local computer <BRANCH>
 - Conflicts may happen during push/pull sync
+
+## Branches
+
+- `git branch <NAME>`: create a branch where you are (i.e., HEAD)
+- `git branch -a`: list all your branches
+- `git switch <BRANCH>`: move HEAD to <BRANCH>
+    - `git checkout <BRANCH>`: the "older" way to move to another branch
