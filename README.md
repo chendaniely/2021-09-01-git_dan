@@ -44,3 +44,5 @@
 - `git branch -d <BRANCH>`: delete <branch>
     - `git branch -D <BRANCH>`: force delte branch without merging
 
+- quick link for example workflow: https://bi-sdal.github.io/training/help-faq.html
+
