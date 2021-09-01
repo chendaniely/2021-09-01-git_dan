@@ -51,3 +51,9 @@
 - use branch protection rules to force PRs and code reviews
     - include admins if you want it to apply to yourself
 
+### Git Flow
+
+- convention for naming branches
+- main is the "production"
+- dev is the development
+
