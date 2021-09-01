@@ -1,4 +1,4 @@
-# 2021-09-01: NYR Workshop
+# 2021-09-01: NYR Git Workshop
 
 - `git init`: initialize git repository in current location
     - `pwd`: tell you where you are
@@ -24,4 +24,4 @@
 - `git remote -v`: shows you what remotes you have
 - `git push <REMOTE> <BRANCH>`: push our local changes in <BRANCH> to <REMOTE>
 - `git pull <REMOTE> <BRANCH>`: pull changes from <REMOTE> down to local computer <BRANCH>
-- Conflicts can happen when syncing
+- Conflicts may happen during push/pull sync
