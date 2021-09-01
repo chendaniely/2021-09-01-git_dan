@@ -7,3 +7,8 @@
 - `git commit`: opens text editor to commit things in staging
     - `git commit -m "TEXT"`: writes "TEXT" for the commit message
 
+- `git log`: shows you the log
+    - `git log --oneline`: shows you the oneline log
+- `git diff`: diff current changes to last git state
+    - `git diff <HASH>/HEAD~<NUM>`: diff current state to another commit
+
