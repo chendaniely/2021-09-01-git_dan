@@ -46,5 +46,5 @@
 
 - quick link for example workflow: https://bi-sdal.github.io/training/help-faq.html
 
-- changes from b2
+- `git rebase main`: rebases current branch against main
 
